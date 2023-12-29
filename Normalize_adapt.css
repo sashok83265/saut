@@ -1,0 +1,24 @@
+
+  @media screen and (min-resoulution:192dpi) {
+	  div {width: 80%}
+	  .supra {width:60%;
+	  height:60%;
+	  font-size: 80%}
+	  .supra2{width:60%;
+	  height:60%;
+	  font-size: 80%}
+	 
+  }
+    @media screen and (min-resoulution:978px) {
+	 div {width: 80%}
+	  .supra {width:60%;
+	  height:60%;
+	  font-size: 80%}
+	  .supra2{width:60%;
+	  height:60%;
+	  font-size: 80%}
+	  .video { width: 70%;
+	  height: 70%;}
+	  }
+	  
+	  @media screen and (max-width: 992px) { div. contentblock {width: 970px;} }
